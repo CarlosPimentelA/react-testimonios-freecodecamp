@@ -1,0 +1,37 @@
+.testimonio-card
+{
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+    width: 730px;
+    height: 200px;
+    margin-bottom: 30px;
+    background-color: rgba(220, 220, 220, 0.08);
+    justify-content: center;
+    align-items: center;
+    box-shadow: .5px .5px 4px #000;
+    background-color: #070724; 
+    color: #fff;
+}
+
+.testimonio-img img
+{
+    width: 220px;
+    height: 200px;
+    margin-right: 20px;
+    margin-top: 4px;
+}
+
+.body-testimonio
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonio-text
+{
+    margin-right: 20px;
+    font-size: 12px;
+}
